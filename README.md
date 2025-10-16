@@ -9,3 +9,8 @@ The objective of this course is to provide students with a comprehensive underst
 - Design and train neural network models, including convolutional and recurrent architectures.
 - Understand parameter update mechanisms with activation functions such as ReLU and softmax.
 - Apply deep learning techniques like LSTM and transformers for sequence modeling and language translation tasks.
+
+## Playlist
+
+### Machine Learning by StatQuest
+    https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
