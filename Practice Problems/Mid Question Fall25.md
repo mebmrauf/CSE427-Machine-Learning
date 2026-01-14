@@ -1,15 +1,3 @@
-# BRAC UNIVERSITY  
-## Department of Computer Science and Engineering  
-
-**Examination:** Semester Mid  
-**Duration:** 1.5 Hours  
-**Semester:** Fall 2025  
-**Full Marks:** 40  
-
----
-
-## CSE 427: Machine Learning  
-
 **Instructions:**  
 Answer the following questions.  
 Figures in the right margin indicate marks.
@@ -102,9 +90,7 @@ Now, you are also trying to implement the **AdaBoost Classifier**.
 
 Considering the **best tree (estimator)** from part (a) as your **first stump**, calculate:
 - The **Amount of Say**
-- Updated **weights** for the **Correctly** and **Incorrectly** classified instances  
-
-for **Table 1**.
+- Updated **weights** for the **Correctly** and **Incorrectly** classified instances for **Table 1**.
 
 ---
 
@@ -117,7 +103,7 @@ You are asked to use **Logistic Regression** for classification.
 Now find the **cross-entropy loss** for each example in the dataset using the Z-score:
 
 \[
-Z = 0.5X_1 + 0.75X_2 - 0.6
+Z = 0.5X1 + 0.75X2 - 0.6
 \]
 
 ---
