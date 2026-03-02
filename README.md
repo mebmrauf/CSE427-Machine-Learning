@@ -14,3 +14,7 @@ The objective of this course is to provide students with a comprehensive underst
 
 ### Machine Learning by StatQuest
     https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+
+### NWT
+
+https://youtube.com/playlist?list=PL5b6Wl2Equ1a5QeBtgfFwO4-eVLe5Dq7H
